@@ -1,5 +1,6 @@
 # Experiment--05-Implementation-of-flipflops-using-verilog
-### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
+### AIM: 
+To implement all the flipflops using verilog and validating their functionality using their functional tables
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
 ### THEORY 
@@ -102,39 +103,58 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-/* write all the steps invloved */
+
+Step 1: Prepare 470 Ohm Resistors. For this step you need 2 470 ohm resistors. ...
+Step 2: ​Mount the 10K Resistors. ...
+
+Step 3: Mount the First Transistor. ...
+
+Step 4: Mount the Second Transistor. ...
+
+Step 5: Mount the LED Lights. ...
+
+Step 6: ​Mount the Capacitors. ...
+
+Step 7: ​Mount the Power Supply. ...
+
+Step 8: Ready.
 
 
 
 ### PROGRAM 
-/*
+
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-
-
-
-
-
+Developed by: R.KARTHIKEYAN
+RegisterNumber: 22002525 
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+SR FLIPFLOP
+![](srff1.png)
 
+JK FLIPFLOP
+![](jkff1.png)
 
+T FLIPFLOP
+![](Tff1.png)
 
-
-
-
+D FLIPFLOP
+![](DFF1.png)
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
+SR FLIPFLOP
+![](srff2.png)
 
+JK FLIPFLOP
+![](jkff2.png)
 
+T FLIPFLOP
+![](Tff2.png)
 
+D FLIPFLOP
+![](Dff2.png)
 
+### RESULTS
 
-
-
-
-### RESULTS 
+Thus,the different flipflop and their truth table is verified.
