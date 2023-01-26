@@ -124,8 +124,8 @@ Step 8: Ready.
 ### PROGRAM 
 
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: R.KARTHIKEYAN
-RegisterNumber: 22002525 
+Developed by: R.AKASH
+RegisterNumber: 22008463
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
